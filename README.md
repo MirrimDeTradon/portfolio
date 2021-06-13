@@ -12,7 +12,7 @@ TavernKeep.Win32.rar (files)
 Java Object Oriented Project:
 CS4013_Project.rar
 
-Jave Wordsearch Project:
+Java Wordsearch Project:
 projectSem2.rar
 
 Virtual Reality Essay:
