@@ -30,5 +30,3 @@ CS-4093 Group Presentation.pptx
 Essay on Mount and Blade: Warband, my favourite game:
 M&B Essay 19263112.pdf
 
-My CV (résumé):
-CV_SKR.docx
